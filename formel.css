@@ -1,0 +1,7 @@
+fieldset {background-color: lightgoldenrodyellow; width: 275px;}
+ul {list-style-type: none; margin-left: -25px;}
+li {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-top: 5px; padding-bottom: 5px;}
+li button {margin-top: 20px;}
+li button:hover {background-color: lightcoral; color: white;}
+input {background-color: lightcoral;}
+textarea {background-color: lightcoral;}
