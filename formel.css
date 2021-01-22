@@ -1,0 +1,12 @@
+body {background-color: #9fffd7; padding-top: 100px;}
+fieldset {background-color: lightgoldenrodyellow; width: 20%; border-style: none; border-radius: 10px; margin: auto; box-shadow: 1px 3px 3px 0px #3f574f;}
+ul {list-style-type: none; margin-left: -25px; margin-right: 25px;}
+li {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-top: 5px; padding-bottom: 5px;}
+h1 {color: black; margin: 0px; margin-top: -20px; text-align: center; font-size: 3em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+input {background-color: white; color:black; border-style: none; width: 100%; padding: 5px; margin-bottom: 5px; font-size: 1.5em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+textarea {background-color: white; color:black; border-style: none; width: 100%; height: 150px; padding: 5px; margin-bottom: 5px; font-size: 1.5em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+li button {background-color: #b3b3b3; color: white; border-style: none;  border-radius: 10px; width: 100%; padding: 5px; font-size: 1.5em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+li button:hover {background-color: lightcoral; border-style: none; border-radius: 10px; width: 100%; padding: 5px; font-size: 1.5em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+li button:checked {background-color: lightcoral; border-style: none; border-radius: 10px; width: 100%; padding: 5px; font-size: 1.5em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+a {color: white; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+main {background-color: lightgoldenrodyellow; width: 20%; border-radius: 10px; padding: 25px 12px 15px 12px; margin: auto; box-shadow: 1px 3px 3px 0px #3f574f;}
